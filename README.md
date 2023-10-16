@@ -1,5 +1,5 @@
 # ToDo-App
-Get to know the logic behind it 
+Get to know the logic behind it , better understanding of Hooks,Screen Navigation , Authentication Flow
 
 libraries/cloud used:
 https://reactnavigation.org/docs/drawer-based-navigation/
